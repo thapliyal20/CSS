@@ -1,0 +1,15 @@
+h1{
+font-family: sans-serif;
+}
+div{
+font-size: 18px;
+font-family: sans-serif;
+padding: 5px;
+}
+
+p{
+font-size: 20px;
+text-align: center;
+text-decoration: underline;
+text-transform: capitalize;
+}
